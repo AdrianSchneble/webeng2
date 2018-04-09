@@ -1,3 +1,5 @@
-GitRepositoriesView.GitDirectories=
-GitRepositoriesView.GitDirectories.relative=
+GitRepositoriesView.GitDirectories=E\:\\workspace\\webeng2\\.git;
+GitRepositoriesView.GitDirectories.relative=.git;
+RepositorySearchDialogDeepSearch=true
+RepositorySearchDialogSearchPath=E\:\\workspace\\webeng2
 eclipse.preferences.version=1
