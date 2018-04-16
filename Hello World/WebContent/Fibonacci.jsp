@@ -25,7 +25,7 @@
 				value="${fib}"></c:out>
 		</c:otherwise>
 	</c:choose>
-	<form action='/HelloWorld/Fibonacci.jsp' method='post'>
+	<form action='./Fibonacci.jsp' method='post'>
 		<input type='text' name='num'> <input type='submit'
 			value='POST'>
 	</form>

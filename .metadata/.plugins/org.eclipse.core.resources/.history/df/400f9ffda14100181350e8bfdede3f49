@@ -18,7 +18,7 @@
 			</c:otherwise>
 		</c:choose>
 	</h1>
-	<form action='./HalloDuDa.jsp' method='post'>
+	<form action='/HelloWorld/HalloDuDa.jsp' method='post'>
 		Dein Name:<br> <input type='text' name='name'> <input
 			type='submit' value='POST'>
 	</form>
